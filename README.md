@@ -1,2 +1,2 @@
 # Quote-Generator-Project
-FreeCodeCamp project
+FreeCodeCamp project for the certification of front end development
